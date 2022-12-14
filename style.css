@@ -78,16 +78,17 @@ img{
     flex-direction: row;
     align-items: center;
 }
-.imagen-contacto{
-    width: 100%;
+.datos-contacto{
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    justify-content: center;
 }
-.imagen-contacto ul{
+.datos-contacto img{
+    width: 800px;
+}
+.datos-contacto ul{
     list-style: none;
 }
-.imagen-contacto ul li{
+.datos-contacto ul li{
     padding-bottom: 15px;
 }
 
